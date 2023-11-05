@@ -1,0 +1,26 @@
+{
+	"folders": [
+		{
+			"name": "Mabat_project",
+			"path": "."
+		},
+		{
+			"name": "UE5",
+			"path": "D:\\Games\\UE5.2\\UE_5.2"
+		}
+	],
+	"settings": {
+		"typescript.tsc.autoDetect": "off",
+		"files.associations": {
+			"*.ipp": "cpp",
+			"*.rh": "cpp",
+			"random": "cpp"
+		}
+	},
+	"extensions": {
+		"recommendations": [
+			"ms-vscode.cpptools",
+			"ms-dotnettools.csharp"
+		]
+	}
+}
